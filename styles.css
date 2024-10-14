@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+    color: white;
+}
+h1{
+    color: aqua;
+    font-style: italic;
+    text-align: center;
+}
+.secondDiv{
+    background-color: blue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+button{
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 3px dotted red;
+}
+button:hover{
+    background-color: black;
+    color: aqua;
+}
