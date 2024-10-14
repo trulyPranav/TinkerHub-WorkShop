@@ -9,7 +9,7 @@ h1{
 }
 .secondDiv{
     background-color: blue;
-    align-items: center;
+    /* align-items: center; */
     justify-content: center;
     display: flex;
 }
