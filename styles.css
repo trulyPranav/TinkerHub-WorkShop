@@ -13,13 +13,27 @@ h1{
     justify-content: center;
     display: flex;
 }
-button{
+.firstButton{
     margin: 5px;
     padding: 5px 10px;
     cursor: pointer;
     border: 3px dotted red;
 }
-button:hover{
+/* button:hover{
     background-color: black;
     color: aqua;
+} */
+.subButJS {
+    margin: 30px;
+    padding: 5px 10px;
+    background-color: grey;
+    color: black;
+    border-radius: 18px;
+}
+.subBut{
+    margin: 30px;
+    padding: 5px 10px;
+    background-color: black;
+    color: white;
+    border-radius: 18px;
 }
